@@ -1,0 +1,29 @@
+.login {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    background-color: white;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    box-shadow: 0 0 7px #a00d0d;
+  }
+  
+  .login h3 {
+    text-align: center;
+  }
+  .login .image img {
+    height: 200px;
+  }
+  .hhh
+  {
+    color:black !important;
+    z-index: 2;
+  }
